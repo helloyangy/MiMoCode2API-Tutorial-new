@@ -2,7 +2,7 @@
 
 # MiMoCode2API 反代教程
 
-**把 MiMoCode 网页里的免费模型，通过 Docker 一键反代成 OpenAI 兼容 API**
+**把 MiMoCode 里的免费模型，通过 Docker 一键反代成 OpenAI 兼容 API**
 
 ![GitHub stars](https://img.shields.io/github/stars/Sliverkiss/mimocode2api?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -45,7 +45,7 @@
 
 | 项目 | 推荐配置 |
 | --- | --- |
-| 价格 | **¥199 / 年** |
+| 价格 | **¥199 / 年（可以同价续费）** |
 | CPU / 内存 | **2 核 / 4 GB** |
 | 带宽 | **30 Mbps** |
 | 系统盘 | **60 GB SSD** |
