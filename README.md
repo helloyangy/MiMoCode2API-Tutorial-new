@@ -94,7 +94,7 @@ cd mimocode2api
 ### 3. 启动服务
 
 ```bash
-docker compose up -d --build
+sudo docker compose up -d --build
 ```
 
 > **提示**：`-d` 表示后台运行，`--build` 表示重新构建镜像。首次启动会拉取基础镜像，请耐心等待 1–3 分钟。
